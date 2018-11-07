@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Challenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">We are loading the content for the first time</string>
+    <string name="sorry">Sorry, seems there is an error. Please check your internet connection!</string>
 </resources>
